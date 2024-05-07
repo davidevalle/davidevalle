@@ -1,6 +1,6 @@
 # Hi, I'm Davide! 👋
 
-I am a 17 year-old High School Student, driven by a curiosity for technology and love for how things in computers work.
+I am a 17 year-old High School Student, driven by a curiosity for technology and love for how computers work.
 
 ![lynxgian's Stats](https://github-readme-stats.vercel.app/api?username=lynxgian&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -20,6 +20,16 @@ I am a 17 year-old High School Student, driven by a curiosity for technology and
 - Learning C Family
   - Curently learning c#
 
+## My Projects
+- Discord Bot [Tickettr](https://github.com/lynxgian/Tickettr)
+  - Written in: Typescript
+  - Codebase: Discord.js, Prisma, Next.js    
+- URL Shortner [Project](https://github.com/lynxgian/url-shortener)
+  - Written in: Elixir
+  - Codebase: Phoenix and Ecto
+- Background Changer [Project](https://github.com/lynxgian/background-changer)
+  - Written in: Rust and React
+  - Codebase: Tauri, React, and Chakra 
 
 ## 📬 Get in Touch
 
