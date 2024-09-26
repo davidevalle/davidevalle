@@ -1,12 +1,12 @@
 # Hi, I'm Davide! 👋
 
-I am a 17 year-old High School Student, driven by a curiosity for technology and love for how computers work.
+I am a 18-year-old College Student at FAU driven by a curiosity for technology and a love for how computers work.
 
 ![lynxgian's Stats](https://github-readme-stats.vercel.app/api?username=lynxgian&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science.
+- 🔭 I'm currently pursuing my B.S.'s in Computer Science.
 - 🎮 I currently enjoy playing video games in my free time, especially FM 2024 and Rocket League
 
 
