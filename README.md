@@ -2,7 +2,7 @@
 
 I am a 18-year-old College Student at FAU driven by a curiosity for technology and a love for how computers work.
 
-![lynxgian's Stats](https://github-readme-stats.vercel.app/api?username=lynxgian&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![lynxgian's Stats](https://github-readme-stats.vercel.app/api?username=davidevalle&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
