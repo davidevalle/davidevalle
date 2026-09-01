@@ -16,7 +16,7 @@ I am a 20-year-old College Student at FAU driven by a curiosity for technology a
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
+- Building my own alarm clock OS in rust
 
 
 ## My Projects
